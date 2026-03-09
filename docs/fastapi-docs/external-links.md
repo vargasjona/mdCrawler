@@ -208,7 +208,7 @@ Most starred GitHub repositories with the topic `fastapi`:
 ★ 1096 - odmantic by @art049.
 ★ 1093 - langchain-extract by @langchain-ai.
 ★ 1078 - fastapi_production_template by @zhanymkanov.
-★ 1055 - fastapi-alembic-sqlmodel-async by @jonra1993.
+★ 1055 - fastapi-alembic-sqlmodel-async by @vargasjona.
 ★ 1047 - Kokoro-FastAPI by @remsky.
 ★ 1036 - prometheus-fastapi-instrumentator by @trallnag.
 ★ 1018 - SurfSense by @MODSetter.
